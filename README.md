@@ -17,6 +17,7 @@ Dimensions	Who? Customer(custID, jwID, cust_name)
 
 Dimensional Modeling 
 ![image](https://github.com/FungusSpore/Data-Warehouse-for-Retail/assets/108650061/175543df-98da-45ea-bf23-c81f3a069d96)
+
 Figure 2- OLAP diagram
 
 OLAP	OLTP
@@ -50,6 +51,7 @@ Fact_sales	This is a table that contains information about the sales that took p
 
 Olap Design and Implementation
 ![image](https://github.com/FungusSpore/Data-Warehouse-for-Retail/assets/108650061/3901ef89-f747-45ae-9495-f9588ae3da21)
+
 Figure 3- OLAP database
 
 
